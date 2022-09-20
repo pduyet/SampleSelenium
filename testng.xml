@@ -5,8 +5,7 @@
     <parameter name="env" value="dev"/>
     <test name="LiquidityOne">
         <classes>
-            <class name="tests.Authorization_Login"/>
-            <class name="tests.Authorization_Register"/>
+
         </classes>
     </test>
 </suite>

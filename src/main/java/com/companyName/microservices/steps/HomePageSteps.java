@@ -1,9 +1,9 @@
-package com.liquidityone.microservices.steps;
+package com.companyName.microservices.steps;
 
-import com.liquidityone.Utils.WebUI;
+import com.companyName.Utils.WebUI;
 import io.qameta.allure.Step;
 
-import static com.liquidityone.microservices.pages.HomePage.*;
+import static com.companyName.microservices.pages.HomePage.*;
 
 public class HomePageSteps extends WebUI {
 

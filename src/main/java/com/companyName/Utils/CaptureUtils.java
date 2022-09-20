@@ -1,4 +1,4 @@
-package com.liquidityone.Utils;
+package com.companyName.Utils;
 
 import org.apache.commons.io.FileUtils;
 import org.openqa.selenium.OutputType;

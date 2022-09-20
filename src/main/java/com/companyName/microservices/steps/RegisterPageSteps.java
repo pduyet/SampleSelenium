@@ -1,6 +1,6 @@
-package com.liquidityone.microservices.steps;
+package com.companyName.microservices.steps;
 
-import com.liquidityone.Utils.WebUI;
+import com.companyName.Utils.WebUI;
 import io.qameta.allure.Step;
 import org.openqa.selenium.WebElement;
 import org.testng.Assert;
@@ -8,7 +8,7 @@ import org.testng.Assert;
 import java.util.ArrayList;
 import java.util.List;
 
-import static com.liquidityone.microservices.pages.RegisterPage.*;
+import static com.companyName.microservices.pages.RegisterPage.*;
 
 public class RegisterPageSteps extends WebUI {
 

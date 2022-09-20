@@ -1,9 +1,9 @@
 package base;
 
-import com.liquidityone.Report.AllureManager;
-import com.liquidityone.Utils.PropertiesFile;
-import com.liquidityone.Utils.TestListener;
-import com.liquidityone.driver.DriverManager;
+import com.companyName.Report.AllureManager;
+import com.companyName.Utils.PropertiesFile;
+import com.companyName.Utils.TestListener;
+import com.companyName.driver.DriverManager;
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;

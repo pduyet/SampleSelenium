@@ -1,12 +1,12 @@
-package com.liquidityone.microservices.steps;
+package com.companyName.microservices.steps;
 
-import com.liquidityone.Utils.WebUI;
-import com.liquidityone.microservices.pages.HomePage;
-import com.liquidityone.microservices.pages.RegisterPage;
+import com.companyName.Utils.WebUI;
+import com.companyName.microservices.pages.HomePage;
+import com.companyName.microservices.pages.RegisterPage;
 import io.qameta.allure.Step;
 import org.testng.Assert;
 
-import static com.liquidityone.microservices.pages.LoginPage.*;
+import static com.companyName.microservices.pages.LoginPage.*;
 
 public class LoginPageSteps extends WebUI {
 

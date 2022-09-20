@@ -1,4 +1,4 @@
-package com.liquidityone.driver;
+package com.companyName.driver;
 
 import org.openqa.selenium.WebDriver;
 

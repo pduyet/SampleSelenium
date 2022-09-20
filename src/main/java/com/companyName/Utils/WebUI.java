@@ -1,6 +1,6 @@
-package com.liquidityone.Utils;
+package com.companyName.Utils;
 
-import com.liquidityone.driver.DriverManager;
+import com.companyName.driver.DriverManager;
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebElement;

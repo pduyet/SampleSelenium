@@ -1,4 +1,4 @@
-package com.liquidityone.Utils;
+package com.companyName.Utils;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;

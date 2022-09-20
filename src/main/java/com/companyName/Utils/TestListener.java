@@ -1,7 +1,7 @@
-package com.liquidityone.Utils;
+package com.companyName.Utils;
 
-import com.liquidityone.Report.AllureManager;
-import com.liquidityone.driver.DriverManager;
+import com.companyName.Report.AllureManager;
+import com.companyName.driver.DriverManager;
 import org.testng.ITestContext;
 import org.testng.ITestListener;
 import org.testng.ITestResult;

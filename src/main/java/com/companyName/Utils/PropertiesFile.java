@@ -1,4 +1,4 @@
-package com.liquidityone.Utils;
+package com.companyName.Utils;
 
 import java.io.FileInputStream;
 import java.io.FileOutputStream;

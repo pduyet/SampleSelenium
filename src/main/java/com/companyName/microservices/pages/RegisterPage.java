@@ -1,4 +1,4 @@
-package com.liquidityone.microservices.pages;
+package com.companyName.microservices.pages;
 
 import org.openqa.selenium.By;
 

@@ -1,8 +1,8 @@
-package com.liquidityone.Report;
+package com.companyName.Report;
 
 import com.github.automatedowl.tools.AllureEnvironmentWriter;
 import com.google.common.collect.ImmutableMap;
-import com.liquidityone.driver.DriverManager;
+import com.companyName.driver.DriverManager;
 import io.qameta.allure.Attachment;
 import org.openqa.selenium.TakesScreenshot;
 
